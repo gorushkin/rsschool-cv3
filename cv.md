@@ -13,3 +13,44 @@
 Потом узнал про HTML Academy, где с огоромным интересоом закончил несколько интенсивов, закончил обучение по профессии "Фронтенд-разработчик", откуда узнал о том, что можно создавать приложения на Java Script, создавать интерактивные страницы, которые взаимодействуют с посетителем. Кто-то из сокурсников начал нахваливать Hexlet. Прошел обучение и устрился верстальщиком, потом стал frontend разработчиком. Люблю и хочу учиться, нравится узнавать новое и оттачивать навыки в старом. Поэтому решил изучить и node js. В настоящее время изучаю бэкенд на node js - Express JS, Fastify, MySQL
 
 В настоящее время работаю frontend разработчиком - пилю интерфейсы.
+
+## Примеры кода
+
+```javascript
+    .get(
+      '/tasks/:id/edit',
+      { name: 'taskEdit', preValidation: app.authenticate },
+      async (req, reply) => {
+        const [task, users, statuses, labels] = await Promise.all([
+          app.objection.models.task.query().findById(req.params.id).withGraphJoined('labels'),
+          app.objection.models.user.query(),
+          app.objection.models.status.query(),
+          app.objection.models.label.query(),
+        ]);
+        reply.render('tasks/edit', {
+          task,
+          users,
+          statuses,
+          labels,
+        });
+        return reply;
+      },
+    )
+```
+
+## Примеры работ
+### Чат
+
+* [репозиторий](https://github.com/gorushkin/frontend-project-lvl1)
+* [рабочая версия](https://polar-thicket-77600.herokuapp.com/)
+
+### Task Manager
+
+* [репозиторий](https://github.com/gorushkin/taskmanager)
+* [рабочая версия](https://taskmanager-gav.herokuapp.com/)
+
+### Veles
+
+* [репозиторий](https://github.com/gorushkin/veles)
+* [рабочая версия](https://gorushkin.github.io/veles/)
+
