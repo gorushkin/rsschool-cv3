@@ -1,10 +1,10 @@
-# Артем Горюшкин
+# Artyom Gorushkin
 
-## Контакты
+## Contacts
 
 [gitHub](https://github.com/gorushkin) | [linkedin](https://www.linkedin.com/in/gorushkin/) | [telegram](http://t.me/artyomgorushkin)
 
-## Немного обо мне
+## About Me
 
 Пару лет назад как-то неожиданно узнал о такой технологии, как MOOCs (Massive Open Online Courses). Работал бухгалтером, поэтому в свободное время изучал там экономику, смотрел лекции ВШЭ.
 
@@ -14,7 +14,7 @@
 
 В настоящее время работаю frontend разработчиком - пилю интерфейсы.
 
-## Примеры кода
+## Code samples
 
 ```javascript
     .get(
@@ -38,23 +38,15 @@
     )
 ```
 
-## Примеры работ
-### Чат
+## Portfolio
 
-* [репозиторий](https://github.com/gorushkin/frontend-project-lvl1)
-* [рабочая версия](https://polar-thicket-77600.herokuapp.com/)
+* Chat - [GitHub](https://github.com/gorushkin/frontend-project-lvl4), [web-project](https://polar-thicket-77600.herokuapp.com/)
 
-### Task Manager
+* Task Manager - [GitHub](https://github.com/gorushkin/taskmanager), [web-project](https://taskmanager-gav.herokuapp.com/)
 
-* [репозиторий](https://github.com/gorushkin/taskmanager)
-* [рабочая версия](https://taskmanager-gav.herokuapp.com/)
+* Veles - [GitHub](https://github.com/gorushkin/veles), [web-project](https://gorushkin.github.io/veles/)
 
-### Veles
-
-* [репозиторий](https://github.com/gorushkin/veles)
-* [рабочая версия](https://gorushkin.github.io/veles/)
-
-## Технологии, которые я знаю и использую
+## My skills
 
 * HTML5, CSS3, SCSS
 * БЭМ
@@ -74,12 +66,12 @@
 * 2019-2020 Верстальщик - кроссбраузерная, адаптивная верстка
 * 2020 - настоящее время - frontend разрабтчик. Занимаюсь интерфейсами
 
-## Образование
+## Education
 
-* HTML Academy - 2018-2019
-* Hexlet 2019-2020 - Frontend разработчик
-* Hexlet 2020-2021 - Backend разработчик
+* 2018-2019 HTML Academy - Frontend developer
+* 2019-2020 Hexlet - Frontend developer
+* 2020-2021 Hexlet - Backend developer
 
-## Уровень английского
+## English
 
-Свободное чтение документации. Понимаю речь (не всегда, к сожаление)
+I can read documentaton without vocabulary. Can speak and understand sipmle sentences.
