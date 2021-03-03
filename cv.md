@@ -54,3 +54,32 @@
 * [репозиторий](https://github.com/gorushkin/veles)
 * [рабочая версия](https://gorushkin.github.io/veles/)
 
+## Технологии, которые я знаю и использую
+
+* HTML5, CSS3, SCSS
+* БЭМ
+* JavaScript(ES6+)
+* React, React (hooks);
+* Redux, Redux Toolkit, Forms;
+* Express
+* Fastify
+* TDD, JEST
+* Git, Github, Github Action;
+* Babel, Webpack, Gulp;
+* Node.JS
+* Figma, Photoshop, Avocode
+
+## Отпыт работы
+
+* 2019-2020 Верстальщик - кроссбраузерная, адаптивная верстка
+* 2020 - настоящее время - frontend разрабтчик. Занимаюсь интерфейсами
+
+## Образование
+
+* HTML Academy - 2018-2019
+* Hexlet 2019-2020 - Frontend разработчик
+* Hexlet 2020-2021 - Backend разработчик
+
+## Уровень английского
+
+Свободное чтение документации. Понимаю речь (не всегда, к сожаление)
